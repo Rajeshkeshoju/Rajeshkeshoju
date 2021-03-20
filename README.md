@@ -1,5 +1,5 @@
 ### Hi there 👋
-# This is <a href="linktr.ee/rajeshkeshoju">Rajesh Keshoju</a>
+# This is <a href="https://linktr.ee/rajeshkeshoju">Rajesh Keshoju</a>
 <!--
 **Rajeshkeshoju/Rajeshkeshoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
