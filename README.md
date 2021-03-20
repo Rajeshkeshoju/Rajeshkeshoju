@@ -1,4 +1,5 @@
 ### Hi there 👋
+# This is <a href="linktr.ee/rajeshkeshoju">Rajesh Keshoju</a>
 <!--
 **Rajeshkeshoju/Rajeshkeshoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -6,8 +7,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Crazie...
-- 🌱 I’m currently learning DSA , Android and Web...
+A student wants to explore his knowledge 😄
+
+- 👨‍💻 I’m currently working on Crazie...
+- 🎯 I’m currently learning DSA , Android and Web...
 <!--- 👯 I’m looking to collaborate ...
 - 🤔 I’m looking for help with enthusiasts...-->
 
