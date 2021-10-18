@@ -4,13 +4,13 @@
 </div>
 -->
 
-<h1> Hello < Developer/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Dev/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rajeshkeshoju.rajeshkeshoju)
 
 </p>
-  <div size='20px'> This is <strong>Rajesh Keshoju</strong>. Thank You for taking the time to view my GitHub Profile :smile: 
+  <div size='20px'> This is <strong><a href="https://linktr.ee/rajeshkeshoju/">Rajesh Keshoju</a></strong>. Thank You for taking the time to have a look at my GitHub Profile :smile:
 </div>
 
 <h2> About Me 
@@ -22,9 +22,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on <strong>QUEST, Crazie</strong>, GitHub project(s)
+  - 🔭 I’m currently working on <strong>QUEST</strong> and <strong>Crazie</strong>, GitHub project(s)
 
-- 🌱 I’m currently learning <strong>DSA</strong>, <strong>Web</strong> <strong>Android</strong> and <strong>Web-services</strong>
+- 🌱 I’m currently learning <strong>DSA</strong>, <strong>Web</strong>, <strong>Android</strong> and <strong>Web-services</strong>
 
 - 👯 I’m looking to collaborate on Projects with <strong>community</strong> 
 
@@ -37,7 +37,9 @@
 <a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 <a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<!--
+<a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
+-->
 <a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/rajeshkeshoju?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'> </a>
