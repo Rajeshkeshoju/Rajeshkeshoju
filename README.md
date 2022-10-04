@@ -22,7 +22,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-  - 🔭 I’m currently working on <strong>QUEST</strong> and <strong>Crazie</strong>, GitHub project(s)
+ <!-- - 🔭 I’m currently working on <strong>QUEST</strong> and <strong>Crazie</strong>, GitHub project(s)-->
 
 - 🌱 I’m currently learning <strong>DSA</strong>, <strong>Web</strong>, <strong>Android</strong> and <strong>Web-services</strong>
 
